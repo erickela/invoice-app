@@ -1,0 +1,13 @@
+body.dark {
+  background: #0f172a;
+  color: white;
+}
+
+body.light {
+  background: white;
+  color: black;
+}
+
+button {
+  margin: 5px;
+}
